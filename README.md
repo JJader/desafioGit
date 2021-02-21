@@ -1,4 +1,4 @@
 desafio-git
 ========
 
-ERROU ! Mas nossos robôs não fazem mal a ninguem :/ só aos nossos inimigos murarararararararararararar.
+ERROU ! O núcleo Bicentenário seria bem da hora em?
