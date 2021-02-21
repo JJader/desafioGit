@@ -13,5 +13,3 @@ Dica: https://www.invertexto.com/texto-criptografado
 Dica: E a chave produção ? São todas as senhas na ordem do level
 
 --> Senha: A
-
-
