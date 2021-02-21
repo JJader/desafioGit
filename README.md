@@ -1,4 +1,6 @@
 desafio-git
 ========
 
-ERROU ! O núcleo Bicentenário seria bem da hora em?
+ERROU ! Eu vim do futuro para te dizer que você errou. Tchau :P 
+
+I'will be back
