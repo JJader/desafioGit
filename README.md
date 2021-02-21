@@ -1,4 +1,4 @@
 desafio-git
 ========
 
-ERROU ! Resposta errada, tente de novo e Que a força esteja com você
+ERROU ! Vamos colocar na pauta da próxima reunião.
