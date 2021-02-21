@@ -1,4 +1,4 @@
 desafio-git
 ========
 
-A Locobots se reestruturou em 2019 para um novo modelo de gestão, mas não foi aqui que fomos criados
+Não de novo , a Loco tem bastante historia para ter sido criado no ano passado kkkkkkkk 
