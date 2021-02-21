@@ -1,6 +1,4 @@
 desafio-git
 ========
 
-ERROU ! Eu vim do futuro para te dizer que você errou. Tchau :P 
-
-I'will be back
+ERROU ! Nosso núcleo já fez um Wall-E, mas não colocamos ele para competir. Vc sabe não faz muito o estilo dele
