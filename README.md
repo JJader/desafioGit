@@ -1,6 +1,6 @@
 # Bem vindo ao desafio git
 
-Para colocar seu conhecimento em prática nós da locobots decidimos criar esse desafio 🤩. Cada level terá uma tarefa para vocês realizarem. Uma vez que a tarefa seja feita você será capaz de passar para a próxima atividade. Há um total de 8 fases. A equipe vencedora receberá uma recompensa.
+Para colocar seu conhecimento em prática nós da locobots decidimos criar esse desafio 🤩. Cada level terá uma tarefa para vocês realizarem. Uma vez que a tarefa seja feita você será capaz de passar para a próxima atividade. Há um total de 8 fases.
 
 ## Vamos iniciar essa jornada !? 
 
@@ -10,7 +10,7 @@ Clone esse repositório executando:
 $ git clone git@github.com:JJader/desafioGit.git
 ```
 
-Com o terminal aberto dentro do repositório execute o comando a seguir para clonar todos os branchs.
+Com o terminal aberto dentro da `pasta do repositório` execute o comando a seguir para clonar todos os branchs.
 
 ```bash
 for remote in `git branch -r`; do git branch --track ${remote#origin/} $remote; done
